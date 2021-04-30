@@ -16,10 +16,9 @@ export default {
     Name,
     Github,
   },
-  data() {
-    return {};
+  created() {
+    document.title = "Albin Sander";
   },
-  methods: {},
 };
 </script>
 
