@@ -3,7 +3,9 @@
     <div class="flex-col">
       <Name />
       <Github />
-      <Card class="mt-20" />
+      <div class="pl-8 pr-8">
+        <Card class="mt-20" />
+      </div>
     </div>
   </div>
 </template>
