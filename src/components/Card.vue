@@ -61,19 +61,19 @@
     >
       Currently learning
     </h2>
-    <div class="flex flex-row justify-center mt-8 mb-8">
+    <div class="flex flex-row justify-center">
       <a href="https://www.swift.org/">
         <img
           src="../assets/svg/swift.svg"
           alt="moving car"
-          class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white mr-12"
+          class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white mt-6 mr-4"
         />
       </a>
-      <a href="https://svelte.dev/">
+      <a href="https://developer.apple.com/xcode/swiftui/">
         <img
-          src="../assets/svg/svelte.svg"
+          src="../assets/svg/swiftui.svg"
           alt="moving car"
-          class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white ml-12"
+          class="md:h-16 md:w-24 h-24 w-24 animate-fade-in-down dark:text-white ml-4 mt-4"
         />
       </a>
     </div>
