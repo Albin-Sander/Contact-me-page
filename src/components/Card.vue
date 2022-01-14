@@ -73,7 +73,7 @@
         <img
           src="../assets/svg/swiftui.svg"
           alt="moving car"
-          class="md:h-16 md:w-24 h-24 w-24 animate-fade-in-down dark:text-white ml-4 mt-4"
+          class="md:h-16 md:w-24 h-13 w-12 animate-fade-in-down dark:text-white ml-4 mt-4"
         />
       </a>
     </div>
