@@ -11,7 +11,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img
           src="../assets/svg/html.svg"
-          alt="moving car"
+          alt="HTML"
           class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white"
         />
       </a>
@@ -19,14 +19,14 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img
           src="../assets/svg/css.svg"
-          alt="moving car"
+          alt="CSS"
           class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white"
         />
       </a>
       <a href="https://www.javascript.com/">
         <img
           src="../assets/svg/javascript.svg"
-          alt="moving car"
+          alt="Javascript"
           class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white"
         />
       </a>
@@ -36,48 +36,48 @@
       <a href="https://www.typescriptlang.org/">
         <img
           src="../assets/svg/typescript.svg"
-          alt="moving car"
+          alt="Typescript"
           class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white"
         />
       </a>
       <a href="https://reactjs.org/">
         <img
           src="../assets/svg/react.svg"
-          alt="moving car"
+          alt="React"
           class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white"
         />
       </a>
       <a href="https://vuejs.org/">
         <img
           src="../assets/svg/vue.svg"
-          alt="moving car"
+          alt="Vue"
           class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white"
         />
       </a>
     </div>
 
-    <h2
-      class="mt-10 flex justify-center md:text-2xl animate-fade-in-down font-bold dark:text-white underline"
-    >
-      Currently learning
-    </h2>
-    <div class="flex flex-row justify-center">
-      <a href="https://www.swift.org/">
-        <img
-          src="../assets/svg/swift.svg"
-          alt="moving car"
-          class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white mt-6 mr-4"
-        />
-      </a>
-      <a href="https://developer.apple.com/xcode/swiftui/">
-        <img
-          src="../assets/svg/swiftui.svg"
-          alt="moving car"
-          class="md:h-16 md:w-24 h-13 w-12 animate-fade-in-down dark:text-white ml-4 mt-4"
-        />
-      </a>
-    </div>
+  <div class="flex flex-row justify-around mt-10">
+  <a href="https://www.swift.org/">
+  <img
+  src="../assets/svg/swift.svg"
+  alt="Swift"
+  class="md:h-12 md:w-12 h-8 w-8 animate-fade-in-down dark:text-white mt-6 mr-4"
+  />
+  </a>
+  <a href="https://developer.apple.com/xcode/swiftui/">
+  <img
+  src="../assets/svg/swiftui.svg"
+  alt="SwiftUI"
+  class="md:h-16 md:w-24 h-13 w-12 animate-fade-in-down dark:text-white ml-4 mt-4"
+  />
+  </a>
   </div>
+
+
+
+
+    </div>
+
 </template>
 
 <script>
